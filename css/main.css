@@ -1,0 +1,14 @@
+body{
+    background: #111;
+    color: white;
+}
+.card{
+    background: #333;
+    color: white;
+}
+
+.home{
+    width: 100%;
+    height: 100vh;
+    background-color: #111;
+}
